@@ -1,0 +1,2 @@
+# SGD_from_scratch_on_bostondataset
+stochastic gradient descent implementation from scratch
