@@ -3,13 +3,13 @@
 # About the dataset
 Data Set Characteristics:
 
-:Number of Instances: 506
+Number of Instances: 506
 
-:Number of Attributes: 13 numeric/categorical predictive
+Number of Attributes: 13 numeric/categorical predictive
 
-:Median Value (attribute 14) is usually the target
+Median Value (attribute 14) is usually the target
 
-:Attribute Information (in order):
+Attribute Information (in order):
 
 - CRIM     per capita crime rate by town
 - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
